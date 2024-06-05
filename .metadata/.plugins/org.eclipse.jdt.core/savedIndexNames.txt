@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+C:\Users\sajjakaavya_sameera\eclipse_gitTask\jenkins_task\.metadata\.plugins\org.eclipse.jdt.core
-3413270776.index
-3369021773.index
